@@ -1,4 +1,4 @@
-# 💻 Machine Learning Projects Portfolio – Ruthika Nalajala
+# 💻 Machine Learning Projects  – Ruthika Nalajala
 
 Welcome to my Machine Learning portfolio! 👋  
 This repository contains all the ML projects I’ve worked on during my learning journey with IntelPath and personal practice. Each project is built from scratch using real-world datasets and covers EDA, model building, evaluation, and tuning.
