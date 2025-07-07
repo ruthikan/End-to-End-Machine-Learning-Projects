@@ -61,9 +61,9 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ## 📌 Folder Structure
 Each project folder contains:
-- ✅ .ipynb or .py file
-- 📊 Dataset (or link)
-- 📄 Mini README (project summary, steps, results)
+- ✅ .py file and pdf 
+- 📊 Dataset(csv)
+- 📄 Mini README 
 
 ---
 
