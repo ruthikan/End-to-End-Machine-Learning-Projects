@@ -51,6 +51,32 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
+### 🔹 6. Disease Prediction
+- 📂 Dataset: medical.csv (Symptom-based dataset)
+- 📊 Model: K-Nearest Neighbors (KNN)
+- 🎯 Goal: Predict disease based on top 6 patient symptoms
+- 🔧 Tasks: Missing value handling, label encoding, distance metric selection (Euclidean), model training
+- ✅ Accuracy Achieved: 98.47%
+
+---
+
+### 🔹 7. Cricket Player Segmentation
+- 📂 Dataset: cricket_clean.csv
+- 📊 Model: K-Means Clustering
+- 🎯 Goal: Segment international cricket players based on performance metrics
+- 🔧 Tasks: Data cleaning, outlier handling, standardization, elbow method, silhouette score, clustering
+- 📌 Insights: Identified 4 optimal player clusters using performance indicator.
+
+---
+### 🔹 8. Customer Segmentation
+- 📂 Dataset: Mall_Customers.csv
+- 🌿 Model: Hierarchical Clustering
+- 🎯 Goal: Segment mall customers based on income and spending score
+- 🔧 Tasks: Dendrogram analysis, agglomerative clustering, cluster visualization
+- 📌 Outcome: Discovered 5 distinct customer groups for targeted marketing
+
+---
+
 ## 🚀 Tools & Technologies Used
 - Python (Jupyter Notebook / Google Colab)
 - pandas, numpy, matplotlib, seaborn
