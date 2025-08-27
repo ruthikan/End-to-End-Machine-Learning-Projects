@@ -63,18 +63,6 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 📂 Folder Structure
-📦 Time_Series_AirPassengers/
-├── AirPassengers.csv
-├── TS_Airpassengers.ipynb
-├── README.md
-└── results/
-├── original_vs_stationary.png
-├── rolling_mean_std.png
-├── forecast_plot.png
-
----
-
 ## 🙋‍♀️ About Me
 lipI’m **Ruthika Nalajala**, an aspiring ML Engineer passionate about building end-to-end Machine Learning and Deep Learning projects. This project is part of my ML journey under **Intellipaat training**, showcasing my skills in **Time Series Analysis & Forecasting**.
 
