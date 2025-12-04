@@ -4,16 +4,16 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to predict diseases ba
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-- 📊 Problem Type: Multi-class Classification  
-- 🎯 Objective: Predict the most likely disease using symptoms  
-- 📂 Dataset: Symptom-to-Disease Dataset (medical.csv or dataset.csv)  
-- 🧪 Algorithm: K-Nearest Neighbors using scikit-learn
+- Problem Type: Multi-class Classification  
+- Objective: Predict the most likely disease using symptoms  
+- Dataset: Symptom-to-Disease Dataset (medical.csv or dataset.csv)  
+- Algorithm: K-Nearest Neighbors using scikit-learn
 
 ---
 
-## 🔍 Dataset Description
+## Dataset Description
 
 | Feature Name   | Description                             |
 |----------------|------------------------------------------|
@@ -25,30 +25,30 @@ Each row in the dataset represents a patient case with up to six symptoms and th
 
 ---
 
-## 🔧 Workflow Steps
+## Workflow Steps
 
-1. ✅ Loaded and cleaned the dataset  
-2. ✅ Retained only required columns (Symptom_1 to Symptom_6 and Disease)  
-3. ✅ Filled missing values with the mode (most common symptom)  
-4. ✅ Applied Label Encoding to symptoms and disease names  
-5. ✅ Split data into training and testing sets (80/20 split)  
-6. ✅ Trained KNeighborsClassifier from scikit-learn  
-7. ✅ Tested the model on unseen test data  
-8. ✅ Measured performance using Accuracy Score
+1. Loaded and cleaned the dataset  
+2. Retained only required columns (Symptom_1 to Symptom_6 and Disease)  
+3. Filled missing values with the mode (most common symptom)  
+4. Applied Label Encoding to symptoms and disease names  
+5. Split data into training and testing sets (80/20 split)  
+6. Trained KNeighborsClassifier from scikit-learn  
+7. Tested the model on unseen test data  
+8. Measured performance using Accuracy Score
 
 ---
 
-## 📐 Distance Metrics Covered
+## Distance Metrics Covered
 
 - Euclidean Distance  
 - Manhattan Distance  
 - Minkowski Distance
 
-🧪 In this implementation, Euclidean distance was used by default to find the nearest neighbors.
+In this implementation, Euclidean distance was used by default to find the nearest neighbors.
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric          | Result        |
 |------------------|---------------|
@@ -61,7 +61,7 @@ The model was able to generalize well and predict the correct disease based on s
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Understood how KNN classifies a data point by voting among k-nearest neighbors  
 - Learned how to tune k-value and choose distance metrics  
@@ -70,7 +70,7 @@ The model was able to generalize well and predict the correct disease based on s
 
 ---
 
-## 📚 Tools & Libraries
+## Tools & Libraries
 
 - Python 3  
 - pandas, numpy  
@@ -80,9 +80,9 @@ The model was able to generalize well and predict the correct disease based on s
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-Hi, I’m Ruthika Nalajala — an aspiring Machine Learning Engineer building real-world projects as part of my learning journey through IntelPath and self-study. This project is one of many in my growing ML portfolio.
+Hi, I’m Ruthika Nalajala — an aspiring Machine Learning Engineer building real-world projects as part of my learning journey through Intellipaat and self-study. This project is one of many in my growing ML portfolio.
 
 📬 Let’s connect on [LinkedIn](https://linkedin.com/in/ruthika-nalajala-73127628b) (replace with your profile link)
 
