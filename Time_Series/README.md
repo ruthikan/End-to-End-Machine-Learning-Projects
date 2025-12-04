@@ -1,10 +1,10 @@
-# ⏳ Time Series Forecasting – AirPassengers Dataset
+# Time Series Forecasting – AirPassengers Dataset
 
 This project applies **Time Series Forecasting** techniques to the classic **AirPassengers dataset**, which contains monthly totals of international airline passengers from 1949 to 1960. The goal was to understand stationarity, apply ARIMA-based models, and forecast future passenger traffic.
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 - **Problem Type:** Time Series Forecasting  
 - **Objective:** Predict future passenger numbers based on historical airline data  
 - **Dataset:** AirPassengers (monthly airline passenger totals, 1949–1960)  
@@ -12,7 +12,7 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 🔍 Workflow
+## Workflow
 
 1. **Data Preprocessing**  
    - Converted the `Month` column to `datetime` and set as index  
@@ -37,7 +37,7 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 📊 Results
+## Results
 
 - **Models Used:** ARIMA, Auto ARIMA, SARIMAX  
 - **Evaluation Metric:** RMSE (Root Mean Squared Error)  
@@ -45,7 +45,7 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 - Understood **stationarity** and its importance in time series forecasting  
 - Learned **differencing** to stabilize time series data  
 - Explored **ARIMA vs. SARIMAX models** for handling trend and seasonality  
@@ -54,7 +54,7 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 - Python 3  
 - pandas, numpy  
 - matplotlib, seaborn  
@@ -63,8 +63,8 @@ This project applies **Time Series Forecasting** techniques to the classic **Air
 
 ---
 
-## 🙋‍♀️ About Me
-lipI’m **Ruthika Nalajala**, an aspiring ML Engineer passionate about building end-to-end Machine Learning and Deep Learning projects. This project is part of my ML journey under **Intellipaat training**, showcasing my skills in **Time Series Analysis & Forecasting**.
+## About Me
+I’m **Ruthika Nalajala**, an aspiring ML Engineer passionate about building end-to-end Machine Learning and Deep Learning projects. This project is part of my ML journey under **Intellipaat training**, showcasing my skills in **Time Series Analysis & Forecasting**.
 
 📌 Explore all my projects here: [End-to-End Machine Learning Projects](https://github.com/ruthikan/End-to-End-Machine-Learning-Projects)
 
