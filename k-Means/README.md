@@ -4,15 +4,15 @@ This project uses K-Means clustering to segment international cricket players ba
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-- 📊 Problem Type: Unsupervised Learning – Clustering  
-- 🎯 Objective: Group players into meaningful clusters based on performance metrics  
-- 📂 Dataset: cricket_clean.csv (preprocessed performance stats)
+- Problem Type: Unsupervised Learning – Clustering  
+- Objective: Group players into meaningful clusters based on performance metrics  
+- Dataset: cricket_clean.csv (preprocessed performance stats)
 
 ---
 
-## 🔍 Features in Dataset
+## Features in Dataset
 
 | Feature         | Description                            |
 |------------------|----------------------------------------|
@@ -26,18 +26,18 @@ This project uses K-Means clustering to segment international cricket players ba
 
 ---
 
-## 🔧 Workflow
+## Workflow
 
-1. ✅ Data Cleaning & Preprocessing  
-2. ✅ Handled outliers using IQR and visual inspection  
-3. ✅ Normalized features using StandardScaler  
-4. ✅ Used Elbow Method & Silhouette Score to choose optimal K  
-5. ✅ Applied KMeans Clustering with K=4  
-6. ✅ Visualized clusters in 2D space using PCA-reduced components
+1. Data Cleaning & Preprocessing  
+2. Handled outliers using IQR and visual inspection  
+3. Normalized features using StandardScaler  
+4. Used Elbow Method & Silhouette Score to choose optimal K  
+5. Applied KMeans Clustering with K=4  
+6. Visualized clusters in 2D space using PCA-reduced components
 
 ---
 
-## 📈 Results
+## Results
 
 - Optimal Clusters: 4  
 - Cluster Distribution: Aggressive Batters, Balanced All-Rounders, Specialist Bowlers, Support Roles  
@@ -45,7 +45,7 @@ This project uses K-Means clustering to segment international cricket players ba
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - How K-Means works and the importance of normalization  
 - How to determine optimal K using Elbow and Silhouette methods  
@@ -54,7 +54,7 @@ This project uses K-Means clustering to segment international cricket players ba
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 - Python 3  
 - pandas, numpy  
@@ -63,7 +63,7 @@ This project uses K-Means clustering to segment international cricket players ba
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-Hi, I’m Ruthika Nalajala — a Machine Learning enthusiast building real-world projects as part of my IntelPath journey. This project is a part of my unsupervised learning series.
+Hi, I’m Ruthika Nalajala — a Machine Learning enthusiast building real-world projects as part of my Intellipaat journey. This project is a part of my unsupervised learning series.
 📬 Let’s connect on [LinkedIn](https://linkedin.com/in/ruthika-nalajala-73127628b)
