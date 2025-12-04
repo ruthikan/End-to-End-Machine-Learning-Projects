@@ -1,18 +1,18 @@
-# 🌲 Customer Churn Prediction using Random Forest Classifier
+# Customer Churn Prediction using Random Forest Classifier
 
 This project predicts whether a customer will churn based on their subscription, service, and account details. I implemented Random Forest — a powerful ensemble model — along with RandomizedSearchCV for hyperparameter tuning. This project is part of my ML journey through IntelPath.
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-- 📊 Problem Type: Binary Classification  
-- 🎯 Objective: Predict whether a telecom customer will churn  
-- 📂 Dataset: customer_churn.csv (7,043 rows × 21 columns)
+- Problem Type: Binary Classification  
+- Objective: Predict whether a telecom customer will churn  
+- Dataset: customer_churn.csv (7,043 rows × 21 columns)
 
 ---
 
-## 🔍 Features in Dataset
+## Features in Dataset
 
 | Feature           | Description                                |
 |-------------------|--------------------------------------------|
@@ -31,15 +31,15 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 🔧 Steps Performed
+## Steps Performed
 
-1. ✅ Loaded dataset and performed EDA  
-2. ✅ Handled missing values in TotalCharges  
-3. ✅ Removed customerID (irrelevant to prediction)  
-4. ✅ Applied Label Encoding to all categorical variables  
-5. ✅ Split data into training (80%) and testing (20%)  
-6. ✅ Trained a baseline Random Forest model (n_estimators=50)  
-7. ✅ Used RandomizedSearchCV to tune hyperparameters:
+1. Loaded dataset and performed EDA  
+2. Handled missing values in TotalCharges  
+3. Removed customerID (irrelevant to prediction)  
+4. Applied Label Encoding to all categorical variables  
+5. Split data into training (80%) and testing (20%)  
+6. Trained a baseline Random Forest model (n_estimators=50)  
+7. Used RandomizedSearchCV to tune hyperparameters:
    - n_estimators
    - max_depth
    - min_samples_leaf
@@ -48,7 +48,7 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## ⚙️ Hyperparameter Tuning (RandomizedSearchCV)
+## Hyperparameter Tuning (RandomizedSearchCV)
 
 | Best Parameters Found | Value           |
 |------------------------|----------------|
@@ -60,7 +60,7 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 | Metric           | Score          |
 |------------------|----------------|
@@ -73,7 +73,7 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Churn distribution plot  
 - Feature importance ranking  
@@ -82,7 +82,7 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Random Forest improves stability and accuracy over single Decision Trees by using Bagging  
 - RandomizedSearchCV speeds up tuning on large datasets  
@@ -91,7 +91,7 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 📚 Tools & Libraries
+## Tools & Libraries
 
 - Python 3  
 - pandas, numpy  
@@ -101,9 +101,9 @@ This project predicts whether a customer will churn based on their subscription,
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-Hi, I’m Ruthika Nalajala — a passionate Machine Learning Engineer in training, exploring real-world projects through IntelPath and personal learning. I’m building a strong ML foundation with practical experience and clean documentation.
+Hi, I’m Ruthika Nalajala — a passionate Machine Learning Engineer in training, exploring real-world projects through Intellipaat and personal learning. I’m building a strong ML foundation with practical experience and clean documentation.
 
 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ruthika-nalajala-73127628b/) 
 
