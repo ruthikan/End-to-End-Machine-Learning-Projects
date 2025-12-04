@@ -74,5 +74,12 @@ For any given user:
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 👩‍💻 Author
+**Ruthika Nalajala**  
+Aspiring Machine Learning Engineer  
+Learning ML & DL through Intellipaat and real-world projects.
+
 
