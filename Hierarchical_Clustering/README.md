@@ -4,16 +4,16 @@ This project applies Hierarchical Clustering to segment mall customers based on 
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-- 📊 Problem Type: Unsupervised Learning – Clustering  
-- 🎯 Objective: Segment mall customers into distinct groups  
-- 📂 Dataset: Mall_Customers.csv  
-- 🧪 Model: Agglomerative Hierarchical Clustering
+- Problem Type: Unsupervised Learning – Clustering  
+- Objective: Segment mall customers into distinct groups  
+- Dataset: Mall_Customers.csv  
+- Model: Agglomerative Hierarchical Clustering
 
 ---
 
-## 🔍 Dataset Features
+## Dataset Features
 
 | Feature Name     | Description                     |
 |------------------|---------------------------------|
@@ -25,17 +25,17 @@ This project applies Hierarchical Clustering to segment mall customers based on 
 
 ---
 
-## 🔧 Workflow
+## Workflow
 
-1. ✅ Loaded and cleaned the dataset  
-2. ✅ Selected relevant features: Annual Income & Spending Score  
-3. ✅ Used Dendrogram (Ward linkage) to determine number of clusters  
-4. ✅ Applied Agglomerative Clustering (Euclidean distance)  
-5. ✅ Visualized clusters using scatter plot
+1. Loaded and cleaned the dataset  
+2. Selected relevant features: Annual Income & Spending Score  
+3. Used Dendrogram (Ward linkage) to determine number of clusters  
+4. Applied Agglomerative Clustering (Euclidean distance)  
+5. Visualized clusters using scatter plot
 
 ---
 
-## 📈 Results
+## Results
 
 - Optimal Clusters: 5  
 - Interpretation:
@@ -47,7 +47,7 @@ This project applies Hierarchical Clustering to segment mall customers based on 
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Understood how hierarchical clustering groups data based on similarity  
 - Dendrograms help decide the number of clusters  
@@ -56,7 +56,7 @@ This project applies Hierarchical Clustering to segment mall customers based on 
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 - Python 3  
 - pandas, numpy  
@@ -65,8 +65,8 @@ This project applies Hierarchical Clustering to segment mall customers based on 
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-Hi, I’m Ruthika Nalajala — an aspiring ML Engineer, passionate about solving business problems with data. This project is part of my unsupervised learning portfolio under IntelPath training.
+Hi, I’m Ruthika Nalajala — an aspiring ML Engineer, passionate about solving business problems with data. This project is part of my unsupervised learning portfolio under Intellipaat training.
 
 📬 Let’s connect on [LinkedIn](https://linkedin.com/in/ruthika-nalajala-73127628b)
