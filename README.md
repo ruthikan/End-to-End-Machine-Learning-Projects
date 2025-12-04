@@ -1,13 +1,13 @@
-# 💻 Machine Learning Projects  – Ruthika Nalajala
+# Machine Learning Projects  – Ruthika Nalajala
 
-Welcome to my Machine Learning portfolio! 👋  
+Welcome to my Machine Learning portfolio! 
 This repository contains all the ML projects I’ve worked on during my learning journey with Intellipaat and personal practice. Each project is built from scratch using real-world datasets and covers EDA, model building, evaluation, and tuning.
 
 ---
 
-## 📁 Projects Overview
+## Projects Overview
 
-### 🔹 1. Medical Insurance Charges Prediction
+### 1. Medical Insurance Charges Prediction
 - Dataset: `insurance.csv`
 - Model: Linear Regression
 - Goal: Predict insurance charges based on features like age, BMI, smoking status, etc.
@@ -15,7 +15,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 2. Bank Marketing Term Deposit Prediction
+### 2. Bank Marketing Term Deposit Prediction
 - Dataset: `bank.csv`
 - Model: Logistic Regression
 - Goal: Predict whether a customer will subscribe to a term deposit
@@ -24,7 +24,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 3. Heart Disease Classification
+### 3. Heart Disease Classification
 - Dataset: `heart.csv`
 - Model: Decision Tree Classifier
 - Goal: Predict presence of heart disease
@@ -33,7 +33,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 4. Customer Churn Prediction
+### 4. Customer Churn Prediction
 - Dataset: `customer_churn.csv`
 - Model: Random Forest + GridSearchCV
 - Goal: Predict customer churn in telecom
@@ -42,7 +42,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 5. Census Income Classification
+### 5. Census Income Classification
 - Dataset: UCI Adult Dataset
 - Models: Logistic Regression, Decision Tree, Random Forest + RandomizedSearchCV
 - Goal: Predict if a person earns >$50K/year
@@ -51,7 +51,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 6. Disease Prediction
+### 6. Disease Prediction
 - Dataset: medical.csv (Symptom-based dataset)
 - Model: K-Nearest Neighbors (KNN)
 - Goal: Predict disease based on top 6 patient symptoms
@@ -60,7 +60,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-### 🔹 7. Cricket Player Segmentation
+### 7. Cricket Player Segmentation
 - Dataset: cricket_clean.csv
 - Model: K-Means Clustering
 - Goal: Segment international cricket players based on performance metrics
@@ -68,7 +68,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 - Insights: Identified 4 optimal player clusters using performance indicator.
 
 ---
-### 🔹 8. Customer Segmentation
+### 8. Customer Segmentation
 - Dataset: Mall_Customers.csv
 - Model: Hierarchical Clustering
 - Goal: Segment mall customers based on income and spending score
@@ -76,7 +76,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 - Outcome: Discovered 5 distinct customer groups for targeted marketing
 
 ---
-### 🔹 9. Airline Passenger Forecasting  
+### 9. Airline Passenger Forecasting  
 - Dataset: AirPassengers.csv
 - Model: ARIMA, Auto ARIMA, SARIMAX
 - Goal: Forecast monthly international airline passengers (1949–1960 dataset)
@@ -84,7 +84,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 - Outcome: Successfully forecasted passenger growth for the next 24 months  
 
 ---
-### 🔹10. Netflix Movie Recommendation System
+### 10. Netflix Movie Recommendation System
 - Dataset: https://drive.google.com/file/d/1G1UvjtdVip0W9JT8vK5M-HVOqj8NEffu/view?usp=sharing , copy of movie_titles.csv
 - Model: SVD (Singular Value Decomposition)
 - Goal: Generate personalized movie recommendations using collaborative filtering
@@ -92,7 +92,7 @@ This repository contains all the ML projects I’ve worked on during my learning
 - Outcome: Built a recommendation system capable of predicting user preferences from sparse rating data
 
 ---
-## 🚀 Tools & Technologies Used
+## Tools & Technologies Used
 - Python (Jupyter Notebook / Google Colab)  
 - pandas, numpy, matplotlib, seaborn  
 - scikit-learn  
@@ -102,17 +102,17 @@ This repository contains all the ML projects I’ve worked on during my learning
 
 ---
 
-## 📌 Folder Structure
+## Folder Structure
 Each project folder contains:
-- ✅ .py file and pdf 
-- 📊 Dataset(csv)
-- 📄 Mini README 
+- .py file and pdf 
+- Dataset(csv)
+- Mini README 
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 Hi, I’m Ruthika Nalajala — an aspiring Machine Learning Engineer passionate about data, model interpretability, and solving real-world problems using AI.  
-📚 Currently learning ML & DL through Intellipaat & self-guided projects.
+Currently learning ML & DL through Intellipaat & self-guided projects.
 
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/ruthika-nalajala-73127628b/)
 
