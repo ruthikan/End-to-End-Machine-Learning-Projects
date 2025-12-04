@@ -84,6 +84,14 @@ This repository contains all the ML projects I’ve worked on during my learning
 - Outcome: Successfully forecasted passenger growth for the next 24 months  
 
 ---
+### 🔹10. Netflix Movie Recommendation System
+- Dataset: https://drive.google.com/file/d/1G1UvjtdVip0W9JT8vK5M-HVOqj8NEffu/view?usp=sharing , copy of movie_titles.csv
+- Model: SVD (Singular Value Decomposition)
+- Goal: Generate personalized movie recommendations using collaborative filtering
+- Tasks: Data cleaning, user–movie matrix creation, SVD model training, 3-fold cross-validation (RMSE), predicting top-N recommended movies for users
+- Outcome: Built a recommendation system capable of predicting user preferences from sparse rating data
+
+---
 ## 🚀 Tools & Technologies Used
 - Python (Jupyter Notebook / Google Colab)  
 - pandas, numpy, matplotlib, seaborn  
