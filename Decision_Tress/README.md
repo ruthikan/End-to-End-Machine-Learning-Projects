@@ -4,15 +4,15 @@ This project aims to predict whether a patient is likely to develop heart diseas
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-- 📊 Problem Type: Binary Classification  
-- 🎯 Objective: Predict the presence (1) or absence (0) of heart disease  
-- 📂 Dataset: heart.csv (UCI Heart Disease Dataset)
+- Problem Type: Binary Classification  
+- Objective: Predict the presence (1) or absence (0) of heart disease  
+- Dataset: heart.csv (UCI Heart Disease Dataset)
 
 ---
 
-## 🔍 Features in Dataset
+## Features in Dataset
 
 | Feature     | Description                                      |
 |-------------|--------------------------------------------------|
@@ -33,20 +33,20 @@ This project aims to predict whether a patient is likely to develop heart diseas
 
 ---
 
-## 🔧 Steps Performed
+##  Steps Performed
 
-1. ✅ Loaded and explored dataset (703 rows × 14 columns)  
-2. ✅ Verified no missing/null values  
-3. ✅ Dropped 1 duplicate row  
-4. ✅ No encoding needed (dataset already numerical)  
-5. ✅ Split data into 80% training and 20% testing  
-6. ✅ Built Decision Tree Classifier using scikit-learn  
-7. ✅ Tuned max_depth parameter (1–10) to prevent overfitting  
-8. ✅ Visualized decision tree structure and feature splits
+1. Loaded and explored dataset (703 rows × 14 columns)  
+2. Verified no missing/null values  
+3. Dropped 1 duplicate row  
+4. No encoding needed (dataset already numerical)  
+5. Split data into 80% training and 20% testing  
+6. Built Decision Tree Classifier using scikit-learn  
+7. Tuned max_depth parameter (1–10) to prevent overfitting  
+8. Visualized decision tree structure and feature splits
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 | Metric           | Score         |
 |------------------|---------------|
@@ -54,11 +54,11 @@ This project aims to predict whether a patient is likely to develop heart diseas
 | Best max_depth   | 8             |
 | Confusion Matrix | [[TN, FP], [FN, TP]] format included in notebook |
 
-✅ Interpretation: A max_depth of 8 gave the best performance, balancing bias and variance.
+Interpretation: A max_depth of 8 gave the best performance, balancing bias and variance.
 
 ---
 
-## 📊 Visualization
+## Visualization
 
 - Decision Tree plotted using plot_tree  
 - Feature importance ranking  
@@ -66,7 +66,7 @@ This project aims to predict whether a patient is likely to develop heart diseas
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Decision Trees split data based on feature purity (homogeneity)  
 - Learned about ID3 and CART algorithms (Information Gain vs Gini Index)  
@@ -75,7 +75,7 @@ This project aims to predict whether a patient is likely to develop heart diseas
 
 ---
 
-## 📚 Tools & Libraries
+## Tools & Libraries
 
 - Python 3  
 - pandas, numpy  
@@ -84,9 +84,9 @@ This project aims to predict whether a patient is likely to develop heart diseas
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-Hi, I’m Ruthika Nalajala — an aspiring Machine Learning Engineer on a mission to build impactful AI solutions. This project is part of my ML journey through IntelPath and personal practice.
+Hi, I’m Ruthika Nalajala — an aspiring Machine Learning Engineer on a mission to build impactful AI solutions. This project is part of my ML journey through Intellipaat and personal practice.
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ruthika-nalajala-73127628b/)
 
